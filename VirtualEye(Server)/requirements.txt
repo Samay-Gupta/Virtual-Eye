@@ -1,0 +1,5 @@
+sklearn
+numpy
+imutils
+opencv-python
+pygame

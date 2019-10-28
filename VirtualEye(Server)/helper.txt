@@ -1,0 +1,34 @@
+Modules used:
+time
+sklearn
+imutils
+glob
+numpy
+pickle
+json
+cv2 (opencv-python)
+os
+socket
+subprocess
+platform
+threading
+pygame
+
+Creating Data:
+    Faces:
+        -> Create Directory with person's name under 'subfiles\\images\\face_recognition\\'.
+        -> Copy training images to the new created Directory.
+        -> Note: Ensure images have only 1 visible face.
+    Distance:
+        -> Copy the training image to 'subfiles\\images\\object_detection\\distance\\'.
+        -> Ensure file name is of syntax 'OBJECT_NAMExDISTANCExWIDTH'.
+        -> Ensure to replace all spaces in OBJECT_NAME with underscores.
+
+Running Program:
+    -> Ensure number of clients is equal to or greater than the number of devices you would like to connect.
+    -> Ensure device has the latest virtual eye application (virtual_eye.apk).
+    -> Ensure server (if run locally) and client are on the same network.
+    -> Ensure IP address in client application is same as of server.
+    -> If IP address varies, click on the 'Server:old_ip' at the bottom of the app and enter new IP.
+    -> Ensure server is running before trying to connect.
+    
