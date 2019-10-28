@@ -20,6 +20,8 @@ Half-Implemented:
 Not-Implemented:
 -> Directions
 -> Distance
+-> Location
 
 Planned Features:
 -> Automatic Voice Detection using CMUSphinx
+-> Location Tracking
