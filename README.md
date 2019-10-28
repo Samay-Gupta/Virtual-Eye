@@ -10,6 +10,10 @@ INSTRUCTIONS FOR USING VIRTUAL EYE:
 5) Enter IP Address on Application and click on Confirm
 6) Select The Logo to run Queries
 
+Installation of Yolo Weights:
+-> Open in Chrome: https://pjreddie.com/media/files/yolov3.weights
+-> Save in VirtualEye\VirtualEye(Server)\subfiles\dataset_files\object_data
+
 Implemeneted:
 -> Find
 -> Visualise
